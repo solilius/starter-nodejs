@@ -1,0 +1,25 @@
+nav{
+   width: 100%; 
+}
+.gallery{
+    margin-top: 7px;
+    float: right;
+}
+
+#view{
+    margin-top: 7vh;
+}
+
+.btn-logout{
+    margin-top: 7px;
+    float: right;
+    margin-left: 5px;
+}
+
+.upload-btn{
+    margin-top: 7px;
+    text-align: center;
+    width: 120px;
+    float: right;
+    margin-left: 5px;
+}
